@@ -1,4 +1,4 @@
-# Curso da plataforma DIO: Desenvolvimento mobile nativo para Android
+# Curso da plataforma DIO: Desenvolvimento mobile nativo para Android.
 
 Matches Simulator App:
 
