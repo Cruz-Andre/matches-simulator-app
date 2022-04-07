@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724534424212",
+    "project_id": "app-simulador-partidas",
+    "storage_bucket": "app-simulador-partidas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724534424212:android:8a05e1dcf4468c623a7a81",
+        "android_client_info": {
+          "package_name": "cruz.andre.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724534424212-19kivmnmfshr8s08nqbg42ire7r0uv8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD29v3bzbWQWf6SZWf0FdFnKN4VM1U8-8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724534424212-19kivmnmfshr8s08nqbg42ire7r0uv8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

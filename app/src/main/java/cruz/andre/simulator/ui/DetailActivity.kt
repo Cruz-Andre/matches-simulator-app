@@ -2,7 +2,6 @@ package cruz.andre.simulator.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.service.autofill.FieldClassification
 import com.bumptech.glide.Glide
 import cruz.andre.simulator.databinding.ActivityDetailBinding
 import cruz.andre.simulator.domain.Match
