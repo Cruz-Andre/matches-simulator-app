@@ -12,3 +12,5 @@ Este repositório (em algumas branches) que representa as implementações reali
    - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/Cruz-Andre/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
 3. Java e Kotlin juntos!? Construíndo Apps Android
    - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Cruz-Andre/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+4. Explorando o Firebase Para Apps Android Resilientes
+   - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/Cruz-Andre/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
